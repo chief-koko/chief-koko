@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chief-koko
 - 👀 I’m passionate to be **Security Analyst**
 - 🌱 I’m currently working as **Web Developer**
-- 💞️ I’m looking to collaborate on you about computer networking, programming linux distro & crytography
+- 💞️ I’m looking to collaborate on you about: computer networking, programming, linux distros & crytography
 - 📫 WELCOME...
 
 <!---
